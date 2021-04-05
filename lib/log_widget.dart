@@ -210,7 +210,7 @@ class _LogWidgetState extends State<LogWidget> {
               onPressed: () {
                 _showSearch = true;
                 setState(() {});
-                _focusNode.requestFocus();
+//                 _focusNode.requestFocus();
               },
             ),
           ],

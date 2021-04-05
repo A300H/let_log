@@ -285,7 +285,7 @@ class _NetWidgetState extends State<NetWidget> {
               onPressed: () {
                 _showSearch = true;
                 setState(() {});
-                _focusNode.requestFocus();
+//                 _focusNode.requestFocus();
               },
             ),
           ],
